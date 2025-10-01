@@ -1,5 +1,5 @@
 
-ZIDIOConnect - Production-ready Backend (starter)
+ZIDIOConnect - Production-ready Backend 
 
 Features included:
 - JWT-based Authentication (register/login)
